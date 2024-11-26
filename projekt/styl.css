@@ -1,0 +1,19 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+header{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+}
+img{
+    margin:25px;
+    width: 150px;
+    height: 150px;
+}
